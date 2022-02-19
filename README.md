@@ -9,7 +9,7 @@ A stack is a data structure that is a collection of items "stacked" ontop of eac
 
 
 ## What is a single linked list?
-A single linked list is a data structure which ever node contains two things, data, and a pointer to the next node in the list. Unlike arrays, linked lists are a dynamic data structure whcih are resizable at run-time. Linked lists are also efficent, as its two properties Insertion and Deletion take constant time at any part of the list.
+A single linked list is a data structure which ever node contains two things, data, and a pointer to the next node in the list. Unlike arrays, linked lists are a dynamic data structure which are resizable at run-time. Linked lists are also efficient, as its two properties Insertion and Deletion take constant time at any part of the list.
 
 ## What is this useful for?
 Stacks can be used for various things, such as storing history, evaluating certain mathematical expressions (Shunting Yard Algorithm), reversing words, recursion, etc.
